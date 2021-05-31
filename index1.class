@@ -3,6 +3,7 @@ class vehicles{
 		{
 		 	String s="bike";
 			System.out.println("vehicles are:" + s);
-		}
-	}
+		system.out.println("second line");
+}
+}
 		
