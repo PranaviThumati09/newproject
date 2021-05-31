@@ -1,0 +1,8 @@
+class vehicles{
+		public static void main(Strnig[] args)
+		{
+		 	String s="bike";
+			System.out.println("vehicles are:" + s);
+		}
+	}
+		
